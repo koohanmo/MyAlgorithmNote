@@ -5,6 +5,7 @@ My Algorithm study sources
 ## BinarySearch
  * BinarySearch
  * ParametricSearch
+ 
 ## Bipartite Matching
 
 ## Bitmask
