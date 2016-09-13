@@ -3,7 +3,8 @@
 My Algorithm study sources
 
 ## BinarySearch
-
+ * BinarySearch
+ * ParametricSearch
 ## Bipartite Matching
 
 ## Bitmask
@@ -16,7 +17,7 @@ My Algorithm study sources
 * QuickSort
 
 ## tree
-
+* BinaryTree
 
 
 # It's not sufficient Repository. Please Wait!!!!
