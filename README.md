@@ -10,9 +10,13 @@ My Algorithm study sources
 
 ## Bitmask
 
-## NetworkFlow
+## Graph
 
-## ShortestPath
+## Basic
+
+### NetworkFlow
+
+### ShortestPath
 
 ## Sort
 * QuickSort
