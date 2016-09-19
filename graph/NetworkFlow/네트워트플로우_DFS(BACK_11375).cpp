@@ -26,7 +26,6 @@ bool dfs(int start) {
 		if (net[start][i] <= 0 || visit[i]==true) continue;
 		//뺵경로 설정
 		parents[i] = start;
-		
 		visit[i] = true;
 		if (dfs(i)) return true;
 	}
